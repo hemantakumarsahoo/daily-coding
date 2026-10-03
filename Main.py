@@ -1,3 +1,6 @@
 print("hello world")
 print("git ignore some file")
 print("second branch main file changed ")
+print("git -amed command")
+print("amend will change add but not in new cooomit it is in same commit message")
+print (" also upadte the commit message also with same commit")
